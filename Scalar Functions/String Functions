@@ -6,4 +6,4 @@ SELECT ascii('t');
 
 LENGTH('ALPHABETS');
 
-SELECT SUBSTRING('Radh Naga Sravani Sandhya Vantapati', 9, 1);
+SELECT SUBSTRING('sree keerthi', 9, 1);
